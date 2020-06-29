@@ -244,6 +244,7 @@
 /drivers/watchdog/wdt_handlers.c          @andrewboie
 /drivers/wifi/                            @jukkar @tbursztyka @pfalcon
 /drivers/wifi/eswifi/                     @loicpoulain
+/drivers/osdp/                            @cbsiddharth
 /dts/arc/                                 @vonhust @ruuddw @iriszzw
 /dts/arm/atmel/sam4e*                     @nandojve
 /dts/arm/atmel/samr21.dtsi                @benpicco
@@ -310,6 +311,7 @@
 /include/drivers/spi.h                    @tbursztyka
 /include/drivers/lora.h                   @Mani-Sadhasivam
 /include/drivers/peci.h                   @albertofloyd @franciscomunoz @scottwcpg
+/include/drivers/osdp.h                   @cbsiddharth
 /include/app_memory/                      @andrewboie
 /include/arch/arc/                        @vonhust @ruuddw
 /include/arch/arc/arch.h                  @andrewboie
@@ -385,6 +387,7 @@
 /samples/drivers/ht16k33/                 @henrikbrixandersen
 /samples/drivers/lora/                    @Mani-Sadhasivam
 /samples/drivers/counter/maxim_ds3231/    @pabigot
+/samples/drivers/osdp/                    @cbsiddharth
 /samples/net/                             @jukkar @tbursztyka @pfalcon
 /samples/net/dns_resolve/                 @jukkar @tbursztyka @pfalcon
 /samples/net/lwm2m_client/                @rlubos
